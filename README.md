@@ -1,11 +1,12 @@
 Number.formatBytes
 ===========
 
-
+Utility method to format bytes into the most logical magnitude (KB, MB, or GB).
 
 How to use
 ----------
 
+    (number).formatBytes([showUnit[, toFixed]]);
 
 
 -------
