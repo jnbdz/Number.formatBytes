@@ -1,6 +1,6 @@
 name:  Number.formatBytes
 author: jnbdz
 current: 0.1 
-category: Utility
+category: Utilities
 tags: [number, format, bytes]
 demo: http://jsfiddle.net/jnbdz/33K3j/
