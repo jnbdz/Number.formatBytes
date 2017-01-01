@@ -24,8 +24,8 @@ Number.implement({
             bytes = this,
             i;
  
-        for (i = 0; bytes >= 1024 && i < 8; i++) {
-            bytes /= 1024;
+        for (i = 0; bytes >= 1000 && i < 8; i++) {
+            bytes /= 1000;
         }
 
         var unit = (showUnit)?units[i]:'';
